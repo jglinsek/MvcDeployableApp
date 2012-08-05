@@ -38,7 +38,8 @@ x64/
 _ReSharper*
 
 # NuGet Packages Directory
-packages
+packages/*
+!repositories.config
 
 # Others
 [Bb]in
