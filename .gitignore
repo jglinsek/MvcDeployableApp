@@ -13,6 +13,7 @@
 # Build results
 [Dd]ebug/
 [Rr]elease/
+[Pp]ublish/
 x64/
 *_i.c
 *_p.c
