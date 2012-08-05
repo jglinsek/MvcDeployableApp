@@ -159,5 +159,4 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
-  <Import Project="..\packages\OctoPack.1.0.109\targets\OctoPack.targets" />
 </Project>
