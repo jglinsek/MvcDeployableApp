@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MvcDeployableApp</id>
+    <title>MvcDeployableApp</title>
+    <version>1.0.0</version>
+    <authors>James G</authors>
+    <owners>Own this.</owners>
+    <licenseUrl>http://ownthis.com</licenseUrl>
+    <projectUrl>http://ownthis.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample project</description>
+    <releaseNotes>This release contains the following changes...</releaseNotes>
+  </metadata>
+</package>
