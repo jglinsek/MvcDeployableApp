@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>MvcDeployableApp</id>
+		<title>MvcDeployableApp Sample - Public Website</title>
+		<version>1.0.0</version>
+		<authors>James</authors>
+		<owners>James</owners>
+		<licenseUrl>http://rezstream.com</licenseUrl>
+		<projectUrl>http://rezstream.com</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>This is a sample ASP.NET MVC package designed to work with Octopus.</description>
+	</metadata>
+</package>
